@@ -11,6 +11,9 @@ https://www.py4e.com/code3/pagerank.zip
 
 There is not a lot of new code to write - it is mostly looking at the code and making the code work.  You will be able to spider some simple content that we provide and then play with the program to spider some other content.  Part of the fun of this assignment is when things go wrong and you figure out how to solve a problem when the program wanders into some data that breaks its retrieval and parsing.  So you will get used to starting over with a fresh database and running your web crawl.
 
+
+PageRank: https://github.com/nocturnes92/py4e-Capstone/blob/main/pagerank/force.html  
+Screenshot:  
 ![PageRank ScreenShot](yahoo.png)
 
 
@@ -38,5 +41,21 @@ The second visualization will be to show how the data is changing over time.   S
 
 This is also a good time to remember to remind those with slow network connections or those who have connections that are charged for bandwidth that they should avoid attempting to download all 1GB of the mail data before they attempt their visualization.
 
+
+Word Cloud: https://github.com/nocturnes92/py4e-Capstone/blob/main/gmane/gword.htm  
+Screenshot:  
 ![avatar](word.png)
+
+Line plot: https://github.com/nocturnes92/py4e-Capstone/blob/main/gmane/gline.py
+Screeshot:  
 ![avatar](month.png)
+
+
+
+
+
+
+
+
+
+
